@@ -1,0 +1,9 @@
+
+UseUUIDBan: true
+UseNicknameBan: false
+
+auto-save: 90
+
+BannedMsg:
+- '&b&l[&f&l Server &b&l] &c&l영구차단, 차단 해제 불가능합니다.'
+- '&f이의 신청은 게시판에 이의 신청 요청글을 올려주세요.' 
